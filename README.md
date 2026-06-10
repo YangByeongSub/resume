@@ -1,9 +1,8 @@
 # 양병섭 (Yang Byeong-sub)
 * **이메일:** yangbyeongsub@gmail.com
-* **연락처:** +82-10-6235-3256
-* **주소지:** 경기도 고양시 덕양구 화신로 340, 701-1003
+* **연락처:** +82-10-6235-xxxx
+* **주소지:** 경기도 고양시 덕양구 화신로 340
 
----
 
 ## 📑 주요 사항 (Summary)
 * **경력 개요:** 20년 이상 IT 분야에서 다양한 시스템 및 서비스 개발 경험 보유
@@ -13,28 +12,41 @@
     * NFV MANO(Network Functions Virtualization Management and Orchestration) 아키텍처에 대한 깊은 이해
     * Elastic Stack(ELK) 기반 빅데이터 시각화 및 모니터링 시스템 구축 (Kibana Plugin 개발)
 
----
 
 ## 💼 경력 사항 (Experience)
 
 ### 프리랜서 | 소프트웨어 개발자
 *2012년 02월 ~ 현재*
 
-* **루이닷㈜ 연구소** *(2025/01 ~ 현재)*
-    * Ezpipeline 고도화 프론트엔드(FE) 개발 및 환경 구성 (React, Nginx)
-    * LG 유플러스 AI TASK v2 프로젝트: ELK v9.3.0 마이그레이션 수행
-    * DB생명 GEN AI 챗봇 서비스 구축 프로젝트 내 Ezpipeline FE 개발
-* **휴림테크㈜ 프로젝트팀** *(2023/11 ~ 2024/12)*
-    * LG 유플러스 AI TASK 모니터링 대시보드 고도화 개발 (Elasticsearch, Kibana Plugin, React / ELK v7.10.0 기반)
-    * Yellosis Back Office Portal 개발 (Java, SpringBoot, Thymeleaf, Tomcat)
-* **애버커스㈜ 프로젝트팀** *(2012/02 ~ 2023/10)*
-    * Smart API G/W Portal 개발 (Java, SpringBoot, Thymeleaf, Tomcat)
-    * SDIM(Software Defined Infrastructure Manager) Portal 개발 (Java, Thymeleaf, SpringBoot, Tomcat)
-    * MEPM Portal 개발 (Java, Thymeleaf, SpringBoot, Tomcat)
-    * CJH MVOM Portal 및 NFV MANO 아키텍처 기반 Cloud 관리 시스템 Portal 개발 (Java, JSP, Spring, Draw2D)
-    * 사내 PVS Solution 고도화 (Java, JSP, Oracle, Spring)
-    * 몽골 UNITEL 유/무선 통합 CSBS 구축 프로젝트 (Java, JSP, Oracle, Spring)
-    * LG 유플러스 Mobile ABAS 개발 (Java, JSP, Oracle, Spring)
+---
+
+### 루이닷㈜ 연구소
+ *2025/01 ~ 현재*
+ 
+ * Ezpipeline 고도화 프론트엔드(FE) 개발 및 환경 구성 (React, Nginx)
+ * LG 유플러스 AI TASK v2 프로젝트: ELK v9.3.0 마이그레이션 수행
+ * DB생명 GEN AI 챗봇 서비스 구축 프로젝트 내 Ezpipeline FE 개발
+
+---
+
+### 휴림테크㈜ 프로젝트팀
+ *2023/11 ~ 2024/12*
+
+ * LG 유플러스 AI TASK 모니터링 대시보드 고도화 개발 (Elasticsearch, Kibana Plugin, React / ELK v7.10.0 기반)
+ * Yellosis Back Office Portal 개발 (Java, SpringBoot, Thymeleaf, Tomcat)
+
+---
+
+### 애버커스㈜ 프로젝트팀
+ *2012/02 ~ 2023/10*
+ 
+ * Smart API G/W Portal 개발 (Java, SpringBoot, Thymeleaf, Tomcat)
+ * SDIM(Software Defined Infrastructure Manager) Portal 개발 (Java, Thymeleaf, SpringBoot, Tomcat)
+ * MEPM Portal 개발 (Java, Thymeleaf, SpringBoot, Tomcat)
+ * CJH MVOM Portal 및 NFV MANO 아키텍처 기반 Cloud 관리 시스템 Portal 개발 (Java, JSP, Spring, Draw2D)
+ * 사내 PVS Solution 고도화 (Java, JSP, Oracle, Spring)
+ * 몽골 UNITEL 유/무선 통합 CSBS 구축 프로젝트 (Java, JSP, Oracle, Spring)
+ * LG 유플러스 Mobile ABAS 개발 (Java, JSP, Oracle, Spring)
 
 ---
 
