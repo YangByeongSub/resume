@@ -29,7 +29,8 @@
  *2025/01 ~ 현재*
  
  * Ezpipeline 고도화 프론트엔드(FE) 개발 및 환경 구성 (React, Nginx)
- * LG 유플러스 AI TASK v2 프로젝트: ELK v9.3.0 마이그레이션 수행
+ * LG 유플러스 AI TASK v2 프로젝트
+   * ELK v9.3.0 마이그레이션 수행
  * DB생명 GEN AI 챗봇 서비스 구축 프로젝트 내 Ezpipeline FE 개발
 
 ---
@@ -37,7 +38,8 @@
 ### 휴림테크㈜ 프로젝트팀
  *2023/11 ~ 2024/12*
 
- * LG 유플러스 AI TASK 모니터링 대시보드 고도화 개발 (Elasticsearch, Kibana Plugin, React / ELK v7.10.0 기반)
+ * LG 유플러스 AI TASK 모니터링 대시보드 고도화 개발
+   * Kibana Plugin 개발 (React / ELK v7.10.0 기반)
  * Yellosis Back Office Portal 개발 (Java, SpringBoot, Thymeleaf, Tomcat)
 
 ---
