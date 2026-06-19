@@ -7,10 +7,15 @@
 ## 📑 주요 사항 (Summary)
 * **경력 개요:** 20년 이상 IT 분야에서 다양한 시스템 및 서비스 개발 경험 보유
 * **핵심 역량:**
-    * Web Frontend 구현 및 개발 (Java, Spring, Tomcat, Nginx, React)
-    * 프론트엔드 중심의 개발 환경 구성 및 고도화 (SpringBoot, React 등)
-    * NFV MANO(Network Functions Virtualization Management and Orchestration) 아키텍처에 대한 깊은 이해
-    * Elastic Stack(ELK) 기반 빅데이터 시각화 및 모니터링 시스템 구축 (Kibana Plugin 개발)
+  
+  * Web Frontend 설계 및 개발 (Java, Spring Framework, Tomcat, Nginx)
+  * React, JSP 기반의 웹 프론트엔드 개발 및 운영 환경 구축
+  * 사용자 요구사항에 따른 UI/UX 개선 및 서비스 고도화
+  * Elastic Stack(ELK) 기반 데이터 시각화 및 모니터링 시스템 구축
+    * Kibana Plugin 개발 및 커스터마이징
+  * Oracle, MySQL 등 RDBMS 설계 및 연계 개발
+  * REST API 연동 및 백엔드 서비스 연계 개발
+  * 서비스 운영, 성능 최적화 및 장애 대응
 
 
 ## 💼 경력 사항 (Experience)
