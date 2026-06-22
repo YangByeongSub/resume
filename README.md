@@ -30,6 +30,7 @@
     * Nginx
 
   * 기타
+    * Linux
     * Elasticsearch
     * Kibana  
 
